@@ -1,6 +1,6 @@
 import './App.css';
 import imagenes from './images.js';
-import React, { Component } from 'react';
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
@@ -15,31 +15,31 @@ function App() {
             <h5>#EncuentroEnLinea.. ..</h5>
         </div>
         <div className="column">
-          <a href={imagenes[1].url} target="_blank">
+          <a target="_blank" rel="noopener noreferrer" href={imagenes[1].url}>
             <button type="button" >
             <h2><FontAwesomeIcon icon={imagenes[1].icon} /> {imagenes[1].title}</h2>
             </button>
           </a>
           <br/>
-          <a href={imagenes[2].url} target="_blank">
+          <a target="_blank" rel="noopener noreferrer" href={imagenes[2].url}>
             <button type="button" >
             <h2><FontAwesomeIcon icon={imagenes[2].icon} /> {imagenes[2].title}</h2>
             </button>
           </a>
           <br/>
-          <a href={imagenes[3].url} target="_blank">
+          <a target="_blank" rel="noopener noreferrer" href={imagenes[3].url}>
             <button type="button" >
             <h2><FontAwesomeIcon icon={imagenes[3].icon} /> {imagenes[3].title}</h2>
             </button>
           </a>
           <br/>
-          <a href={imagenes[4].url} target="_blank">
+          <a target="_blank" rel="noopener noreferrer" href={imagenes[4].url}>
             <button type="button" >
             <h2><FontAwesomeIcon icon={imagenes[4].icon} /> {imagenes[4].title}</h2>
             </button>
           </a>
           <br/>
-          <a href={imagenes[5].url} target="_blank">
+          <a target="_blank" rel="noopener noreferrer" href={imagenes[5].url}>
             <button type="button" >
             <h2><FontAwesomeIcon icon={imagenes[5].icon} /> {imagenes[5].title}</h2>
             </button>
