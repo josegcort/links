@@ -12,7 +12,7 @@ function App() {
         <br/>
             <img className="Img-logo" src={imagenes[0].img} alt="logo" />
             <h4>@ccelencuentro</h4>
-            <h5>#EncuentroEnLinea....</h5>
+            <h5>#EncuentroEnLinea.. ..</h5>
         </div>
         <div className="column">
           <a href={imagenes[1].url} target="_blank">
