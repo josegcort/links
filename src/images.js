@@ -6,7 +6,8 @@ import logoWhatsapp from './assets/img/whatsapp.png';
 
 import { faYoutube, faFacebookF, faInstagram, faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 
-export default[
+const foo = 123
+export default foo[
 	{
 		"title": "Logo del Encuentro",
 		"url": "",
