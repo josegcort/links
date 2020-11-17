@@ -27,7 +27,7 @@ function App() {
             </button>
           </a>
           <br/>
-          <a target="_blank" rel="noopener noreferrer" href={imagenes[3].url}>
+          <a target="_blank" href={imagenes[3].url}>
             <button type="button" >
             <h2><FontAwesomeIcon icon={imagenes[3].icon} /> {imagenes[3].title}</h2>
             </button>
