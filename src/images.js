@@ -31,13 +31,13 @@ var imagenes = [
 		"icon": faInstagram
 	},
 	{
-		"title": "Chat de WhatsApp#1 ",
+		"title": "Contacto de WhatsApp",
 		"url": "https://wa.link/t50imm",
 		"img": logoWhatsapp,
 		"icon": faWhatsapp
 	},
 	{
-		"title": "Chat de WhatsApp#2 ",
+		"title": "Chat de WhatsApp",
 		"url": "https://wa.link/w9nl8p",
 		"img": logoWhatsapp,
 		"icon": faWhatsapp
