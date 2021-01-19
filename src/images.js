@@ -31,7 +31,7 @@ var imagenes = [
 		"icon": faInstagram
 	},
 	{
-		"title": "Contacto de WhatsApp",
+		"title": "Chat de WhatsApp",
 		"url": "https://wa.link/t50imm",
 		"img": logoWhatsapp,
 		"icon": faWhatsapp
