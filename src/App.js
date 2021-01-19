@@ -39,11 +39,11 @@ function App() {
             </button>
           </a>
           <br/>
-          //<a target="_blank" rel="noopener noreferrer" href={imagenes[5].url}>
-          //<button type="button" >
-          //<h2><FontAwesomeIcon icon={imagenes[5].icon} /> {imagenes[5].title}</h2>
-          //</button>
-          //</a> 
+        {/*<a target="_blank" rel="noopener noreferrer" href={imagenes[5].url}>
+            <button type="button" >
+              <h2><FontAwesomeIcon icon={imagenes[5].icon} /> {imagenes[5].title}</h2>
+            </button>
+          </a> */}
         </div>
       </header>
     </div>
